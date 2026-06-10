@@ -728,6 +728,18 @@ Used by PYNQ runtime to discover accelerator components automatically.
 
 ---
 
+## Block Design
+<img width="490" height="370" alt="finn-example" src="https://github.com/user-attachments/assets/58bae8d4-762f-4bae-83fb-af0de21599d5" />
+<img width="490" height="370" alt="finn-example" src="https://github.com/user-attachments/assets/f99ab9ef-40e0-499e-9327-699ee72d8c82" />
+<img width="490" height="370" alt="finn-example" src="https://github.com/user-attachments/assets/f234e509-ba36-477c-9085-970ae7ca0a1c" />
+
+# FINN_IP BLOCK
+<img width="1837" height="518" alt="Screenshot 2026-06-10 224314" src="https://github.com/user-attachments/assets/0da293da-8aad-4422-8042-4f2e726e783c" />
+
+# Integrated block design 
+<img width="1856" height="705" alt="Screenshot 2026-06-10 223840" src="https://github.com/user-attachments/assets/4605e3dd-7c46-4d63-9df0-20efbb63ff3f" />
+
+
 # Deploying the Accelerator on PYNQ-Z2
 
 After FINN successfully generated the hardware accelerator, the generated bitstream and driver files were deployed onto the PYNQ-Z2 board for hardware validation.
