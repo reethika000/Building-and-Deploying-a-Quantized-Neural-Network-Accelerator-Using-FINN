@@ -34,7 +34,7 @@ The complete workflow includes:
 
 | Tool | Version |
 |--------|---------|
-| Ubuntu | 24.04 LTS |
+| Ubuntu | 22.04 LTS |
 | Vivado | 2022.2 |
 | Vitis HLS | 2022.2 |
 | Docker | Latest |
@@ -76,9 +76,8 @@ Hardware Validation
 
 Recommended Host System:
 
-- Ubuntu 24.04 LTS
-- Minimum 16 GB RAM
-- 100 GB Free Storage
+- Ubuntu 22.04 LTS
+- Storage Overhead of 35-40 GBs
 - Vivado 2022.2
 - Vitis HLS 2022.2
 - Docker Installed
@@ -96,7 +95,7 @@ lsb_release -a
 Expected output:
 
 ```text
-Ubuntu 24.04 LTS
+Ubuntu 22.04 LTS
 ```
 
 ---
@@ -706,6 +705,8 @@ finn-accel.hwh
 
 ---
 
+<img width="668" height="274" alt="image" src="https://github.com/user-attachments/assets/d776911a-627a-4c8f-8962-4563dfde5011" />
+
 # Purpose of Generated Files
 
 ## finn-accel.bit
@@ -732,9 +733,7 @@ Used by PYNQ runtime to discover accelerator components automatically.
 ---
 
 ## Block Design
-<img width="490" height="370" alt="finn-example" src="https://github.com/user-attachments/assets/58bae8d4-762f-4bae-83fb-af0de21599d5" />
-<img width="490" height="370" alt="finn-example" src="https://github.com/user-attachments/assets/f99ab9ef-40e0-499e-9327-699ee72d8c82" />
-<img width="490" height="370" alt="finn-example" src="https://github.com/user-attachments/assets/f234e509-ba36-477c-9085-970ae7ca0a1c" />
+
 
 # FINN_IP BLOCK
 <img width="1837" height="518" alt="Screenshot 2026-06-10 224314" src="https://github.com/user-attachments/assets/0da293da-8aad-4422-8042-4f2e726e783c" />
