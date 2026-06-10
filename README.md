@@ -19,9 +19,6 @@ The complete workflow includes:
 
 ---
 
-<img width="490" height="370" alt="finn-example" src="https://github.com/user-attachments/assets/b42e7a7e-0fe7-40da-9ad7-57509f926fec" />
-
-
 # Hardware Platform
 
 - PYNQ-Z2 Development Board
@@ -370,6 +367,9 @@ http://<host-ip>:8889
 ```
 
 ---
+
+
+<img width="490" height="370" alt="finn-example" src="https://github.com/user-attachments/assets/6b0a6194-9ea8-435b-8778-a0c6f3443f60" />
 
 
 # Neural Network Architecture
