@@ -19,6 +19,9 @@ The complete workflow includes:
 
 ---
 
+<img width="490" height="370" alt="finn-example" src="https://github.com/user-attachments/assets/b42e7a7e-0fe7-40da-9ad7-57509f926fec" />
+
+
 # Hardware Platform
 
 - PYNQ-Z2 Development Board
@@ -34,7 +37,7 @@ The complete workflow includes:
 
 | Tool | Version |
 |--------|---------|
-| Ubuntu | 22.04 LTS |
+| Ubuntu | 24.04 LTS |
 | Vivado | 2022.2 |
 | Vitis HLS | 2022.2 |
 | Docker | Latest |
