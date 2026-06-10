@@ -366,12 +366,12 @@ http://<host-ip>:8889
 ```
 
 ---
-
+# Neural Network Architecture
 
 <img width="490" height="370" alt="finn-example" src="https://github.com/user-attachments/assets/6b0a6194-9ea8-435b-8778-a0c6f3443f60" />
 
 
-# Neural Network Architecture
+
 
 The project uses the pretrained quantized neural network provided in the FINN cybersecurity example.
 
