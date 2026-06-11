@@ -615,6 +615,21 @@ Efficient FPGA Mapping
 
 ---
 
+
+## Intermediate Transformations:
+## Tidy Up transformations:
+<img width="242" height="4670" alt="step_tidy_up onnx" src="https://github.com/user-attachments/assets/b4c8058d-e2e0-4bc4-9ae8-a2440fdcb399" />
+
+## Streamlining transformations:
+<img width="192" height="1630" alt="step_streamline onnx" src="https://github.com/user-attachments/assets/d500966e-2ba2-457b-9f5e-0efc71c5854c" />
+
+## Convert to HW layers:
+<img width="166" height="1044" alt="step_convert_to_hw onnx" src="https://github.com/user-attachments/assets/867c3a2d-d46f-4a09-8724-81c3cf924268" />
+
+## Specialize layers:
+<img width="166" height="1044" alt="step_specialize_layers onnx" src="https://github.com/user-attachments/assets/b539cfdb-6690-4de6-8943-758070bd55e5" />
+
+
 # Estimated Performance
 
 FINN generated the following performance estimates.
